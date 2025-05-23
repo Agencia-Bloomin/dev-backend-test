@@ -70,17 +70,17 @@ O projeto deve ser entregue de forma organizada via **repositório público no G
 
 ## ✅ Critérios de Avaliação
 
-| Critério                         | Descrição | Peso |
-|----------------------------------|-----------|------|
-| Organização e estrutura do código | Código limpo, modular e bem estruturado  |
-| Implementação da API             | Funcionalidade, rotas corretas e tratamento de erros  |
-| Funcionalidade do CMS            | Interface de gerenciamento funcional e intuitiva |
-| Interface pública do catálogo    | Visual e responsivo, com exibição correta dos produtos |
-| Boas práticas e segurança        | Validações, tratamento de inputs e segurança básica  |
+| Critério                         | Descrição | 
+|----------------------------------|-----------|
+| Organização e estrutura do código | Código limpo, modular e bem estruturado  
+| Implementação da API             | Funcionalidade, rotas corretas e tratamento de erros  
+| Funcionalidade do CMS            | Interface de gerenciamento funcional e intuitiva 
+| Interface pública do catálogo    | Visual e responsivo, com exibição correta dos produtos 
+| Boas práticas e segurança        | Validações, tratamento de inputs e segurança básica  
 
 ---
 
-# 27/05 até às 17:00 # ⏱️ Prazo de Entrega
+# 27/05 até às 14:00  ⏱️ Prazo de Entrega
 
 ****
 
