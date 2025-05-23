@@ -80,7 +80,7 @@ O projeto deve ser entregue de forma organizada via **repositório público no G
 
 ---
 
-# 27/05 # ⏱️ Prazo de Entrega
+# 27/05 até às 17:00 # ⏱️ Prazo de Entrega
 
 ****
 
