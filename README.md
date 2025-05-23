@@ -50,3 +50,47 @@ Desenvolver um sistema completo para **gestão e apresentação de produtos**, c
 ### 🗄️ Banco de Dados
 
 - Utilizar **MySQL**
+
+
+
+## 📁 Entrega Esperada
+
+O projeto deve ser entregue de forma organizada via **repositório público no GitHub**, contendo:
+
+- Código-fonte completo do **backend**, **frontend** e CMS
+- Arquivo **README.md** com:
+  - Tecnologias utilizadas
+  - Instruções de instalação e execução (passo a passo para rodar localmente)
+  - Documentação dos endpoints da API
+  - Como acessar o CMS (se aplicável)
+- Dump do banco de dados MySQL em um arquivo `.sql` (ex: `bd.sql`)
+- Estrutura de pastas clara e organizada
+
+---
+
+## ✅ Critérios de Avaliação
+
+| Critério                         | Descrição | Peso |
+|----------------------------------|-----------|------|
+| Organização e estrutura do código | Código limpo, modular e bem estruturado  |
+| Implementação da API             | Funcionalidade, rotas corretas e tratamento de erros  |
+| Funcionalidade do CMS            | Interface de gerenciamento funcional e intuitiva |
+| Interface pública do catálogo    | Visual e responsivo, com exibição correta dos produtos |
+| Boas práticas e segurança        | Validações, tratamento de inputs e segurança básica  |
+
+---
+
+# 27/05 # ⏱️ Prazo de Entrega
+
+****
+
+---
+
+## 🧠 Dicas
+
+- Mantenha seu código organizado e fácil de entender
+- Utilize commits frequentes e mensagens claras
+- Evite copiar diretamente de tutoriais sem entender o que está sendo feito
+- Capriche na documentação: ela é uma extensão do seu trabalho técnico
+
+Boa sorte! 🚀
